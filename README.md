@@ -7,6 +7,7 @@
 ### *Your Ultimate Book Discovery & Reading Companion*
 
 **A modern, full-stack web application where book lovers unite to discover, review, and track their literary journey.**
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20BookVerse-blue?style=for-the-badge&logo=vercel)](https://bookverse-web9.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/trishitkb/book-review-app)
 
@@ -89,7 +90,7 @@ This project was built with love and dedication to the reading community. Specia
 
 
 - GitHub: [@trishitkb](https://github.com/trishitkb)
-- Email: trishitkantibhuinya@example.com
+- Email: trishitkantibhuinya@gmail.com
 
 ## 🙏 **Acknowledgments**
 
