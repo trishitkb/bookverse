@@ -1,20 +1,14 @@
 <div align="center">
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20BookVerse-blue?style=for-the-badge&logo=vercel)](https://bookverse-web9.vercel.app)
-
 # 📚 BookVerse
+![BookVerse Hero](https://res.cloudinary.com/de2g04l9j/image/upload/v1753070105/Screenshot_2025-07-21_092355_vbizck.png)
 
 ### *Your Ultimate Book Discovery & Reading Companion*
 
 **A modern, full-stack web application where book lovers unite to discover, review, and track their literary journey.**
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20BookVerse-blue?style=for-the-badge&logo=vercel)](https://bookverse-web9.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/trishitkb/book-review-app)
 
 ---
-
-## 🌟 **Experience BookVerse**
-
-### **🎯 Hero Section - Your Gateway to Literary Adventures**
-![BookVerse Hero](https://res.cloudinary.com/de2g04l9j/image/upload/v1753070105/Screenshot_2025-07-21_092355_vbizck.png)
 
 ### **📖 Discover Amazing Books**
 ![BookVerse Books](https://res.cloudinary.com/de2g04l9j/image/upload/v1753070106/Screenshot_2025-07-21_092416_uhs9qk.png)
