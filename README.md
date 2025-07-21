@@ -1,5 +1,7 @@
 <div align="center">
+  
 # 📚 BookVerse
+
 ![BookVerse Hero](https://res.cloudinary.com/de2g04l9j/image/upload/v1753070105/Screenshot_2025-07-21_092355_vbizck.png)
 
 ### *Your Ultimate Book Discovery & Reading Companion*
